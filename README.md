@@ -1,2 +1,2 @@
 # Magnus-Uggerud
-Frotend Student
+Frontend Student
